@@ -1,1 +1,50 @@
 /* css */
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color: darkcyan;
+}
+
+.cp-container{
+    width: 900px;
+    margin: 0 auto;
+    margin: 50px auto;
+    background-color:aquamarine
+}
+
+.numberbox{
+    background-color: black;
+    width: 70px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin: 20px;
+    color: white;
+    border-radius: 10px;
+}
+
+main h1{
+   width: 100%;
+   margin: auto;
+   text-align: center;
+   margin-top: 20px;
+   font-weight: bolder;
+   font-size: 80px;
+   color: white;
+}
+
+.yellow{
+    background-color: gold;
+}
+
+.blue{
+    background-color: rgb(35, 35, 201);
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: rgb(165, 25, 25);
+}
