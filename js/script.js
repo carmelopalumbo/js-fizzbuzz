@@ -10,7 +10,8 @@ const container = document.querySelector('.col');
 // verifica multiplo
 for(let i = 1; i <= limit; i++){
     if(!(i % 3) && !(i % 5)){
-        console.log(fizzbuzzOutput);
+
+        //console.log(fizzbuzzOutput);
 
         //creo il box
         const box = document.createElement('div');
@@ -24,7 +25,8 @@ for(let i = 1; i <= limit; i++){
         container.append(box);
 
     }else if(!(i % 5)){
-        console.log(buzzOutput);
+
+        //console.log(buzzOutput);
         const box = document.createElement('div');
 
         //aggiungo la classe
@@ -36,7 +38,8 @@ for(let i = 1; i <= limit; i++){
         container.append(box);
 
     }else if(!(i % 3)){
-        console.log(fizzOutput);
+
+        //console.log(fizzOutput);
          const box = document.createElement('div');
 
         //aggiungo la classe
@@ -48,7 +51,8 @@ for(let i = 1; i <= limit; i++){
         container.append(box);
 
     }else{
-        console.log(i);
+        
+        //console.log(i);
 
         const box = document.createElement('div');
 
