@@ -9,7 +9,8 @@ body{
     width: 900px;
     margin: 0 auto;
     margin: 50px auto;
-    background-color:aquamarine
+    background-color:aquamarine;
+    border-radius: 10px;
 }
 
 .numberbox{
@@ -21,6 +22,7 @@ body{
     margin: 20px;
     color: white;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 main h1{
