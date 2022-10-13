@@ -2,19 +2,17 @@
 
 body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
-    background-color: darkcyan;
+    background: -webkit-linear-gradient(top,  #959595 0%,#0d0d0d 46%,#010101 50%,#0a0a0a 53%,#4e4e4e 76%,#383838 87%,#1b1b1b 100%);
 }
 
 .cp-container{
     width: 900px;
     margin: 0 auto;
     margin: 50px auto;
-    background-color:aquamarine;
-    border-radius: 10px;
+    background: -webkit-linear-gradient(top,  #cedce7 0%,#596a72 100%);
 }
 
 .numberbox{
-    background-color: black;
     width: 70px;
     height: 50px;
     line-height: 50px;
@@ -32,21 +30,21 @@ main h1{
    margin-top: 20px;
    font-weight: bolder;
    font-size: 80px;
-   color: white;
+   color: -webkit-linear-gradient(top,  #959595 0%,#0d0d0d 46%,#010101 50%,#0a0a0a 53%,#4e4e4e 76%,#383838 87%,#1b1b1b 100%);
 }
 
 .yellow{
-    background-color: gold;
+    background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 56%,#f1da36 66%,#f1da36 80%,#fefcea 100%,#fefcea 100%);
 }
 
 .blue{
-    background-color: rgb(35, 35, 201);
+    background: -webkit-linear-gradient(top,  #1e5799 0%,#1e5799 27%,#2989d8 48%,#2989d8 60%,#7db9e8 100%); 
 }
 
 .green{
-    background-color: green;
+    background: -webkit-linear-gradient(top,  #b4ddb4 0%,#83c783 17%,#52b152 33%,#008a00 52%,#005700 90%,#005700 96%,#002400 100%);
 }
 
 .red{
-    background-color: rgb(165, 25, 25);
+    background: -webkit-linear-gradient(top,  #a90329 39%,#8f0222 47%,#6d0019 77%);
 }
