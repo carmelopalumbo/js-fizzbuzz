@@ -10,6 +10,7 @@ body{
     margin: 0 auto;
     margin: 50px auto;
     background: -webkit-linear-gradient(top,  #cedce7 0%,#596a72 100%);
+    border-radius: 10px;
 }
 
 .numberbox{
